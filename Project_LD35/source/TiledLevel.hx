@@ -9,6 +9,7 @@ import flixel.addons.editors.tiled.TiledObjectLayer;
 import flixel.addons.editors.tiled.TiledTileLayer;
 import flixel.addons.editors.tiled.TiledTileSet;
 import flixel.FlxSprite;
+import flixel.FlxState;
 import flixel.FlxCamera.FlxCameraFollowStyle;
 import flixel.group.FlxGroup;
 import flixel.tile.FlxTilemap;
@@ -16,12 +17,13 @@ import haxe.io.Path;
 
 class TiledLevel extends TiledMap
 {
-    public var tilemaps:FlxGroup;
-    public var objects:FlxGroup;
+    public var tilemaps(default, null):FlxGroup;
+    public var objects(default, null):FlxGroup;
+    public var player(default, null):Player;
 
     private static inline var tilemapPath:String = "assets/tilemaps/";
 
-    public function new (level:Dynamic):Void
+    public function new (level:Dynamic, state:PlayState):Void
     {
         super(tilemapPath + level);
 
@@ -31,7 +33,7 @@ class TiledLevel extends TiledMap
         FlxG.camera.setScrollBoundsRect(0, 0, fullWidth, fullHeight, true);
 
         loadTilemapLayers();
-        loadObjects();
+        loadObjects(state);
     }
 
     private function loadTilemapLayers ():Void
@@ -69,7 +71,7 @@ class TiledLevel extends TiledMap
         }
     }
 
-    private function loadObjects ():Void
+    private function loadObjects (state:PlayState):Void
     {
         for (layer in layers)
         {
@@ -82,13 +84,13 @@ class TiledLevel extends TiledMap
             {
                 for (obj in objectLayer.objects)
                 {
-                    loadObject(obj, objectLayer, objects);
+                    loadObject(obj, objectLayer, objects, state);
                 }
             }
         }
     }
 
-    private function loadObject (obj:TiledObject, lyr:TiledObjectLayer, group:FlxGroup):Void
+    private function loadObject (obj:TiledObject, lyr:TiledObjectLayer, group:FlxGroup, state:PlayState):Void
     {
         var x:Int = obj.x;
         var y:Int = obj.y;
@@ -101,8 +103,7 @@ class TiledLevel extends TiledMap
         switch (obj.name.toLowerCase()) 
         {
             case "player":
-                var player:Player = new Player(x, y);
-                objects.add(player);
+                player = new Player(x, y, state);
                 FlxG.camera.follow(player, FlxCameraFollowStyle.PLATFORMER);
         }
     }
