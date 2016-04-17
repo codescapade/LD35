@@ -151,7 +151,6 @@ class Player extends FlxSprite
                 }
             }
         }
-        trace(_onWall);
     }
 
     private function tileCollsion (player:FlxObject, tile:FlxObject):Void
@@ -216,6 +215,16 @@ class Player extends FlxSprite
                 offset.y = 1;
 
             case Form.WALL:
+                if (_form == Form.BLOB)
+                {
+                    if(!flipX)
+                        x += 6;
+                }
+                else if (_form == Form.CHUTE)
+                {
+                    if(!flipX)
+                        x += 8;
+                }
                 _form = Form.WALL;
                 velocity.y = 0;
                 acceleration.y = _wallAcceleration;
@@ -223,8 +232,6 @@ class Player extends FlxSprite
                 setSize(8, 14);
                 offset.x = 4;
                 offset.y = 1;
-                if(!flipX)
-                    x += 6;
 
             default:
                 throw "unknown form: " + newForm;
