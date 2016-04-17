@@ -57,7 +57,7 @@ class PlayState extends FlxState
             _tutJumpText = new FlxText(50, 80, 150, "SpaceBar To Jump", 8);
             add(_tutJumpText);
 
-            _tutChute = new FlxText(300, 70, 160, "Press and Hold SpaceBar To Float While in the Air", 8);
+            _tutChute = new FlxText(300, 70, 160, "Press and Hold SpaceBar While in the Air To Float", 8);
             add(_tutChute);
 
             _tutGoal = new FlxText(558, 166, 50, "Goal >", 8);
@@ -65,7 +65,7 @@ class PlayState extends FlxState
         }
         else if (Mgr.currentLevel == 2)
         {
-            _tutJumpText = new FlxText(20, 400, 120, "Hold Left or Right Against a Wall to Stick to it", 8);
+            _tutJumpText = new FlxText(20, 390, 120, "Hold Left or Right Against a Wall to Stick to it", 8);
             add(_tutJumpText);
 
             _tutChute = new FlxText(400, 100, 150, "Hold Down while in the air to break cracked blocks", 8);

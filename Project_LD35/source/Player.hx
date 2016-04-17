@@ -397,7 +397,7 @@ class Player extends FlxSprite
         }
         else
         {
-            FlxG.switchState(new MenuState());
+            FlxG.switchState(new GameComplete());
         }
     }
 

@@ -22,7 +22,7 @@ class TransitionState extends FlxState
 
         FlxG.camera.flash(0xFF000000, 0.5);
 
-        _levelText = new FlxText(0, 0, 80, "Level: " + Mgr.currentLevel, 16);
+        _levelText = new FlxText(0, 0, 100, "Level: " + Mgr.currentLevel, 16);
         _levelText.screenCenter();
         _levelText.y -= 20;
         add(_levelText);

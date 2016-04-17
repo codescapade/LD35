@@ -37,7 +37,7 @@ class GameComplete extends FlxState
         _completeText.y -= 30;
         add(_completeText);
 
-        _creditsText = new FlxText(155, 102, 300, "A Game by Juriën Meerlo for Ludum Dare 35", 8);
+        _creditsText = new FlxText(155, 120, 300, "A Game by Juriën Meerlo for Ludum Dare 35", 8);
         _creditsText.alignment = FlxTextAlign.CENTER;
         _creditsText.color = FlxColor.WHITE;
         _creditsText.screenCenter();

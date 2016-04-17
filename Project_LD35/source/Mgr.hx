@@ -8,9 +8,9 @@ class Mgr
     public static var levelCleared:Bool = false;
     public static var lives:Int = 3;
     public static var currentLevel:Int = 1;
-    public static var lastLevel:Int = 2;
+    public static var lastLevel:Int = 6;
 
-    public static var sfxVolume:Float = 0.8;
+    public static var sfxVolume:Float = 0.6;
     public static var musicVolume:Float = 0.5;
 
     public static function toggleMusic ():Void
@@ -34,7 +34,7 @@ class Mgr
         }
         else
         {
-            sfxVolume = 0.8;
+            sfxVolume = 0.6;
         }
     }
 }
