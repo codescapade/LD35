@@ -1,1 +1,1166 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_tu",
+				"_tutJumpText	flixel.text.FlxText"
+			],
+			[
+				"_tut",
+				"_tutGoal"
+			],
+			[
+				"_tt",
+				"_tutChute	flixel.text.FlxText"
+			],
+			[
+				"flc",
+				"FlxColor	class"
+			],
+			[
+				"flxte",
+				"FlxTextAlign	class"
+			],
+			[
+				"an",
+				"anyJustPressed(...)	Bool"
+			],
+			[
+				"pl",
+				"play(...)	flixel.system.FlxSound"
+			],
+			[
+				"_to",
+				"_toggleSoundTex"
+			],
+			[
+				"_tog",
+				"_toggleSoundTex	flixel.text.FlxText"
+			],
+			[
+				"tog",
+				"toggleSound(  )	Void"
+			],
+			[
+				"ju",
+				"justPressed	flixel.input.keyboard.FlxKeyList"
+			],
+			[
+				"plya",
+				"playMusic(...)	Void"
+			],
+			[
+				"play",
+				"playMusic(...)	Void"
+			],
+			[
+				"scr",
+				"screenCenter(...)	flixel.FlxObject"
+			],
+			[
+				"trans",
+				"TransitionState	class"
+			],
+			[
+				"flash",
+				"flash(...)	Void"
+			],
+			[
+				"_l",
+				"_playerSprite"
+			],
+			[
+				"_lev",
+				"_livesText	flixel.text.FlxText"
+			],
+			[
+				"liv",
+				"livesText"
+			],
+			[
+				"u",
+				"util	package"
+			],
+			[
+				"el",
+				"elapsed"
+			],
+			[
+				"tran",
+				"TransitionState	class"
+			],
+			[
+				"l",
+				"lives	Int"
+			],
+			[
+				"leve",
+				"levelCleared	Bool"
+			],
+			[
+				"_st",
+				"_startX	Float"
+			],
+			[
+				"_sta",
+				"_startX	Float"
+			],
+			[
+				"sta",
+				"_startY	Float"
+			],
+			[
+				"_star",
+				"_startY	Float"
+			],
+			[
+				"flxty",
+				"FlxTypedGroup	flixel.group.FlxGroup"
+			],
+			[
+				"star",
+				"startY	Float"
+			],
+			[
+				"form",
+				"Form	class"
+			],
+			[
+				"_",
+				"_broken	Bool"
+			],
+			[
+				"re",
+				"RED"
+			],
+			[
+				"flxtyped",
+				"FlxTypedGroup	flixel.group.FlxGroup"
+			],
+			[
+				"Laser",
+				"LaserDoor	class"
+			],
+			[
+				"La",
+				"LaserDoor	class"
+			],
+			[
+				"for",
+				"forEachAlive(...)	Unknown<1>"
+			],
+			[
+				"off",
+				"offMiddle"
+			],
+			[
+				"pr",
+				"parseInt( x : String )	Null<Int>"
+			],
+			[
+				"pla",
+				"PlayState	class"
+			],
+			[
+				"load",
+				"loadObject(...)	Void"
+			],
+			[
+				"bl",
+				"BLOCK	Form"
+			],
+			[
+				"min",
+				"minPos"
+			],
+			[
+				"set",
+				"setPath(...)	Void"
+			],
+			[
+				"enum",
+				"enumDir	Direction"
+			],
+			[
+				"st",
+				"Std	class"
+			],
+			[
+				"Di",
+				"Direction	class"
+			],
+			[
+				"D",
+				"Direction	CircleSaw"
+			],
+			[
+				"Flxpoin",
+				"FlxPoint	flixel.math"
+			],
+			[
+				"po",
+				"setPosition(...)	Void"
+			],
+			[
+				"of",
+				"offset	flixel.math.FlxPoint"
+			],
+			[
+				"par",
+				"parseInt( x : String )	Null<Int>"
+			],
+			[
+				"fr",
+				"frameIndex	Int"
+			],
+			[
+				"ha",
+				"hazardGroup"
+			],
+			[
+				"objec",
+				"objectLayer	flixel.addons.editors.tiled.TiledObjectLayer"
+			],
+			[
+				"obje",
+				"objectLayer	flixel.addons.editors.tiled.TiledObjectLayer"
+			],
+			[
+				"getfi",
+				"getFirstExisting(  )	flixel.FlxBasic"
+			],
+			[
+				"fi",
+				"getFirstExisting(  )	flixel.FlxBasic"
+			],
+			[
+				"til",
+				"tileGroup"
+			],
+			[
+				"BL",
+				"BLOCK	Form"
+			],
+			[
+				"Pla",
+				"Player	class"
+			],
+			[
+				"Play",
+				"PlayState	class"
+			],
+			[
+				"Blo",
+				"BLOB	Form"
+			],
+			[
+				"b",
+				"BLOCK	Form"
+			],
+			[
+				"d",
+				"DOWN	Int"
+			],
+			[
+				"tou",
+				"isTouching( Direction : Int )	Bool"
+			],
+			[
+				"add",
+				"add(...)	Void"
+			],
+			[
+				"mr",
+				"Mgr	class"
+			],
+			[
+				"wh",
+				"whisp"
+			],
+			[
+				"Player",
+				"PlayerType	Mgr"
+			],
+			[
+				"fol",
+				"follow(...)	Void"
+			],
+			[
+				"loa",
+				"loadTilemapLayers(  )	Void"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"get",
+				"getGidOwner(...)	flixel.addons.editors.tiled.TiledTileSet"
+			],
+			[
+				"tiledob",
+				"TiledObjectLayer	flixel.addons.editors.tiled"
+			],
+			[
+				"Tiledob",
+				"TiledObject	flixel.addons.editors.tiled"
+			],
+			[
+				"tilem",
+				"tilemaps	flixel.group.FlxGroup"
+			],
+			[
+				"tileset",
+				"tileset	flixel.addons.editors.tiled.TiledTileSet"
+			],
+			[
+				"tiledtil",
+				"TiledTileSet	class"
+			],
+			[
+				"tile",
+				"TiledLayerType	class"
+			],
+			[
+				"full",
+				"fullHeight	Int"
+			],
+			[
+				"flxt",
+				"FlxTilemap	class"
+			],
+			[
+				"flx",
+				"FlxG	class"
+			],
+			[
+				"swi",
+				"switchState(...)	Void"
+			],
+			[
+				"flxcol",
+				"FlxColor	flixel.util"
+			],
+			[
+				"fli",
+				"flipY	Bool"
+			],
+			[
+				"facin",
+				"_facingRight	Bool"
+			],
+			[
+				"flip",
+				"flipOver(  )	Void"
+			],
+			[
+				"world",
+				"worldVectorToLocal(...)	Unknown<35>"
+			],
+			[
+				"up",
+				"UP	Bool"
+			],
+			[
+				"wor",
+				"worldVectorToLocal(...)	Unknown<35>"
+			],
+			[
+				"ve",
+				"Vec2	nape.geom"
+			],
+			[
+				"_ray",
+				"_ray	nape.geom.Ray"
+			],
+			[
+				"loca",
+				"localVectorToWorld(...)	Unknown<17>"
+			],
+			[
+				"local",
+				"localPointToWorld(...)	Unknown<16>"
+			],
+			[
+				"_ra",
+				"_rayResult	nape.geom.RayResult"
+			],
+			[
+				"_max",
+				"_maxVerticalSpeed	Float"
+			],
+			[
+				"wo",
+				"worldVectorToLocal(...)	Unknown<35>"
+			],
+			[
+				"Nap",
+				"NapeSpace	class"
+			],
+			[
+				"lo",
+				"localVectorToWorld(...)	Unknown<17>"
+			],
+			[
+				"flxpoi",
+				"FlxPoint	flixel.math"
+			],
+			[
+				"FlxPoi",
+				"FlxPoint	flixel.math"
+			],
+			[
+				"Deb",
+				"DebugRay	owyoow.nape"
+			],
+			[
+				"deb",
+				"debugRay	owyoow.nape.DebugRay"
+			],
+			[
+				"di",
+				"dispose(  )	Unknown<0>"
+			],
+			[
+				"C",
+				"CB_WALL	nape.callbacks.CbType"
+			],
+			[
+				"wid",
+				"width	Float"
+			],
+			[
+				"s",
+				"setxy(...)	nape.geom.Vec2"
+			],
+			[
+				"_r",
+				"_rayResult	nape.geom.RayResult"
+			],
+			[
+				"De",
+				"DebugRay	owyoow.nape"
+			],
+			[
+				"_ma",
+				"_maxHorizontalSpeed	Float"
+			],
+			[
+				"ra",
+				"RayResultList	class"
+			],
+			[
+				"r",
+				"RayResult	class"
+			],
+			[
+				"L",
+				"LEFT	Bool"
+			],
+			[
+				"se",
+				"set(...)	nape.geom.Vec2"
+			],
+			[
+				"vec",
+				"velocity	nape.geom.Vec2"
+			],
+			[
+				"to",
+				"TO_RAD	Float"
+			],
+			[
+				"debu",
+				"DebugRay	class"
+			],
+			[
+				"nape",
+				"NapeSpace	class"
+			],
+			[
+				"n",
+				"nape	package"
+			],
+			[
+				"na",
+				"NapeSpaceExt	class"
+			],
+			[
+				"put",
+				"putUnsafe( obj : owyoow.DebugRay )	Void"
+			],
+			[
+				"Debug",
+				"DebugRay	class"
+			],
+			[
+				"IFlxpo",
+				"IFlxPooled	flixel.util.FlxPool"
+			],
+			[
+				"i",
+				"IFlxPooled	class"
+			],
+			[
+				"ray",
+				"rayDebugArray	Array<Array<nape.geom.Vec2>>"
+			],
+			[
+				"in",
+				"int(...)	Int"
+			],
+			[
+				"dra",
+				"drawLine"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/MenuState.hx",
+			"settings":
+			{
+				"buffer_size": 2396,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/TransitionState.hx",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Mgr.hx",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/GameComplete.hx",
+			"settings":
+			{
+				"buffer_size": 1838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Main.hx",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 2399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Player.hx",
+			"settings":
+			{
+				"buffer_size": 11919,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os;",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/assets",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/assets/images",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/assets/music",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/assets/sounds",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/assets/tilemaps",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source",
+		"/Users/owyoow/haxelib/flixel/git",
+		"/Users/owyoow/haxelib/flixel/git/flixel",
+		"/Users/owyoow/haxelib/flixel/git/flixel/group"
+	],
+	"file_history":
+	[
+		"/Users/owyoow/haxelib/flixel/git/flixel/group/FlxGroup.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/LaserButton.hx",
+		"/Users/owyoow/haxelib/flixel-demos/git/Features/FlxSound/Project.xml",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/Project.xml",
+		"/Users/owyoow/haxelib/flixel-demos/git/Features/FlxSound/source/MenuState.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/TransitionState.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/Main.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/Player.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/TiledLevel.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/LaserDoor.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/CircleSaw.hx",
+		"/Users/owyoow/Documents/_repos/cubes/Cubes/source/LoadTileMap.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/test.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/circleSaw.hx",
+		"/Users/owyoow/Documents/_repos/cubes/Cubes/source/Player.hx",
+		"/Users/owyoow/Documents/_repos/cubes/Cubes/source/Reg.hx",
+		"/Users/owyoow/Documents/_repos/LD35/Project_LD35/source/MenuState.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/FlxObject.hx",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/source/TiledLevel.hx",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/source/PlayState.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/util/FlxSpriteUtil.hx",
+		"/Users/owyoow/Documents/_repos/LD35/index.html",
+		"/Users/owyoow/Documents/_repos/project_vertical/vertical_jump/source/PlayState.hx",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/source/Player.hx",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/source/Mgr.hx",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/Project.xml",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/source/MenuState.hx",
+		"/Applications/Unity/Unity.app/Contents/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/Users/owyoow/Documents/_repos/cubes/Cubes/source/MenuState.hx",
+		"/Users/owyoow/Documents/_repos/project_gravity/WallWalker/source/Main.hx",
+		"/Users/owyoow/Documents/_repos/jumprogueunity/Assets/Scripts/Player.cs",
+		"/Users/owyoow/haxelib/nape/2,0,19/nape/phys/Body.hx",
+		"/Users/owyoow/Documents/_repos/flixel-owyoow/owyoow/nape/NapeSpace.hx",
+		"/Users/owyoow/Documents/_repos/flixel-owyoow/owyoow/nape/DebugRay.hx",
+		"/Users/owyoow/haxelib/nape/2,0,19/nape/space/Space.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/Project.xml",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/MenuState.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/Direction.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/Mngr.hx",
+		"/Users/owyoow/Documents/_repos/flixel-owyoow/owyoow/math/MathUtils.hx",
+		"/Users/owyoow/Documents/_repos/flixel-owyoow/owyoow/math/Clamp.hx",
+		"/Users/owyoow/Documents/Unity_Projects/BlobJump/Assets/Scripts/Player.cs",
+		"/Users/owyoow/Desktop/advancedsettings.xml",
+		"/Users/owyoow/haxelib/flixel-addons/git/flixel/addons/nape/FlxNapeTilemap.hx",
+		"/Users/owyoow/haxelib/flixel-addons/git/flixel/addons/nape/FlxNapeSprite.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/owyoow/DebugRay.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/owyoow/NapeSpaceExt.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/util/FlxArrayUtil.hx",
+		"/Users/owyoow/haxelib/flixel-addons/git/flixel/addons/nape/FlxNapeVelocity.hx",
+		"/Users/owyoow/haxelib/nape/2,0,19/nape/geom/Vec2.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/util/FlxDestroyUtil.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/FlxBasic.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/FlxSprite.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/math/FlxPoint.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/owyoow/MobileScale.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/util/FlxPool.hx",
+		"/Users/owyoow/haxelib/flixel/git/flixel/math/FlxRect.hx",
+		"/Users/owyoow/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/owyoow/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/owyoow/haxelib/flixel/git/flixel/math/FlxMatrix.hx",
+		"/Users/owyoow/haxelib/flixel-demos/git/Editors/TiledEditor/source/PlayState.hx",
+		"/Users/owyoow/haxelib/flixel-demos/git/Editors/TiledEditor/source/TiledLevel.hx",
+		"/Users/owyoow/haxelib/flixel-demos/git/Features/FlxNapeTilemap/source/PlayState.hx",
+		"/Users/owyoow/Documents/_repos/haxespriterdemo/SpriterTest/source/MenuState.hx",
+		"/Users/owyoow/Documents/_repos/cubes/Cubes/source/PlayState.hx",
+		"/Users/owyoow/Documents/_repos/project_vertical/vertical_jump/source/MenuState.hx",
+		"/Users/owyoow/Documents/_repos/gravityplatformer/RollyRobot/source/PlayState.hx",
+		"/Users/owyoow/Documents/Haxeflixel/WallWalker/source/Main.hx",
+		"/Users/owyoow/Documents/_repos/project_vertical/vertical_jump/Project.xml",
+		"/Users/owyoow/Documents/_repos/project_vertical/vertical_jump/source/Main.hx",
+		"/Users/owyoow/Documents/_repos/cubes/Cubes/Project.xml",
+		"/Users/jurienmeerlo/Documents/_Repos/the-spinner/Assets/Scripts/GameManager.cs",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/SmallEnemy.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/SmallEnemyH.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Spike.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/StickyState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Cage.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/LevelSelectState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Reg.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/CharacterSelectState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/PlayState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/IntroState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Girl.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/PuzzlePiece.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/PuzzleState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/RunEnemy.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/ShellEnemy.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/LevelProperties.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/LevelComplete.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/JumpEnemy.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/LevelButton.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/GunPickup.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/GirlPart.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/InGameMenuState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Input.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/helloWord.c",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/MenuState.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/CubeEyes.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/CubeGun.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/CubePart.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/EnemyChunk.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/LoadTileMap.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/BulletParticle.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,5/flixel/ui/FlxButton.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Player.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/Bullet.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,5/flixel/FlxSprite.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,5/flixel/FlxObject.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,5/flixel/ui/FlxTypedButton.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/PauseState.hx",
+		"/usr/lib/haxe/lib/flixel/3,3,5/flixel/ui/PxButton.hx",
+		"/Users/jurienmeerlo/Downloads/$cameracollision_208.js",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/Project.xml",
+		"/Users/jurienmeerlo/Documents/_Repos/caverunner/CaveRunner/Assets/Scripts/Managers/GameManager.cs",
+		"/Users/jurienmeerlo/Downloads/UnityThirdPersonTutorial-master/Assets/Scripts/ThirdPersonCamera.cs",
+		"/Users/jurienmeerlo/Documents/_Repos/caverunner/CaveRunner/Assets/Scripts/Managers/ObstacleManager.cs",
+		"/Users/jurienmeerlo/Documents/_Repos/caverunner/CaveRunner/Assets/Scripts/Menus/MainMenu.cs",
+		"/Users/jurienmeerlo/Desktop/spaceTest/Assets/Vectrosity/Demos/Scripts/Ellipse/Ellipse1.js",
+		"/usr/lib/haxe/lib/flixel-addons/1,1,0/flixel/addons/ui/FlxButtonPlus.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/source/CustomButton.hx",
+		"/usr/lib/haxe/std/js/Browser.hx",
+		"/Users/jurienmeerlo/Documents/_Repos/cubes/Cubes/export/flash/bin/browser.js",
+		"/usr/lib/haxe/std/flash/external/ExternalInterface.hx",
+		"/usr/lib/haxe/lib/lime/.current",
+		"/usr/lib/haxe/lib/flixel/3,3,5/flixel/FlxBasic.hx",
+		"/usr/lib/haxe/lib/flixel-addons/1,1,0/flixel/addons/nape/FlxNapeTilemap.hx",
+		"/Users/jurienmeerlo/Downloads/handmade_hero_035_source/handmade_hero_day_009_source/code/win32_handmade.cpp",
+		"/Users/jurienmeerlo/Downloads/synergy-1.3.1/synergy.confold"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_form",
+			"_player",
+			"updateForm(Form.Blob",
+			"Blob",
+			"flxaxes",
+			"screen",
+			"screenCenter",
+			"screeenCenter",
+			"trace",
+			"raycast",
+			"flxnapespace",
+			"2.0",
+			"flipX",
+			"_boss",
+			"loadGra",
+			"_buttonSelected",
+			"Reg.Inmenu",
+			"unlocked",
+			"mouse",
+			"Timer",
+			"preview",
+			"cbtypes",
+			"hash",
+			"ray",
+			"hasBeenKilled",
+			"endPoint",
+			"startPoint",
+			"FlxG",
+			"debugger",
+			"forceDebugger",
+			"debug",
+			"startMenuLayer",
+			"camera",
+			"resetState",
+			"dead",
+			"raymul",
+			"getM",
+			"ray",
+			"from",
+			"new Vec2",
+			"getMidpoint()",
+			"shape",
+			"Hash",
+			"shape",
+			"flicker",
+			"bgcolor",
+			"tileLayer",
+			"floor",
+			"AMC",
+			"versionmark",
+			"wtextdefault",
+			"mark ",
+			"mark",
+			"fvm",
+			"showwatermark",
+			"this.options.watermark",
+			"options.watermark",
+			"wonderplugin",
+			"watermark",
+			"Wonderplugin.com",
+			"onExit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"form",
+			"NapeSpaceExt",
+			"1.6",
+			"Vec2.get",
+			"body.position",
+			"Map"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/MenuState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1639,
+								1639
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 515.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/TransitionState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/Mgr.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/GameComplete.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1110,
+								1110
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/Main.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/PlayState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1865,
+								1865
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/Player.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11453,
+								11453
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5521.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/haxeflixel.sublime-build",
+	"project": "Project_LD35.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
