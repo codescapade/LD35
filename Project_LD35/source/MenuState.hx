@@ -44,7 +44,7 @@ class MenuState extends FlxState
         _title.y += 10;
         add(_title);
 
-        _action = new FlxText(0, 100, 200, "Press Space to Start", 8);
+        _action = new FlxText(0, 100, 200, "Press SpaceBar to Start", 8);
         _action.alignment =FlxTextAlign.CENTER;
         _action.screenCenter(FlxAxes.X);
         _action.color = 0xFFAAAA00;

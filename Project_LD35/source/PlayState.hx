@@ -54,7 +54,7 @@ class PlayState extends FlxState
 
         if (Mgr.currentLevel == 1)
         {
-            _tutJumpText = new FlxText(50, 80, 150, "SpaceBar To Jump", 8);
+            _tutJumpText = new FlxText(50, 80, 150, "Press SpaceBar To Jump", 8);
             add(_tutJumpText);
 
             _tutChute = new FlxText(300, 70, 160, "Press and Hold SpaceBar While in the Air To Float", 8);
